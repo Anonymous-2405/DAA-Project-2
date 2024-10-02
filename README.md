@@ -1,12 +1,12 @@
 # DAA-Project-2
-HuffmanEncoding.py
+1. HuffmanEncoding.py##
 Implements Huffman Encoding, displaying the number of symbols and time taken for each run.
 
-LogAnalysis.py
+2. LogAnalysis.py##
 Calculates theoretical time complexity O(n log n) for different input sizes.
 
-GraphNormalization.py
+3. GraphNormalization.py##
 Normalizes the theoretical and experimental values, printing the results.
 
-GraphPlotting.py
+4. GraphPlotting.py##
 Plots a graph comparing normalized theoretical and experimental values.
